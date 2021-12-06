@@ -1,0 +1,4 @@
+[submodule "my_mkdocs_project"]
+	path = my_mkdocs_project
+	url = https://github.com/abrobia/my_mkdocs_project.git
+	branch = main
